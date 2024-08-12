@@ -1,0 +1,46 @@
+/*h1{
+    color:rgb(255,0,0);
+}
+#p1{
+    color:blue;
+}
+#p2{
+    color:goldenrod;
+}
+#p3{
+    color:pink;
+}
+/*class selector
+#p4{
+    color:red;
+}
+
+/*element selector*/
+/*h1{
+    color:blueviolet;
+}
+/*universal selector
+*{
+color:aqua;
+}*/
+#p1{
+    color:rgba(255,0,0,0.1);
+}
+#p2{
+    color:rgba(255,0,0,0.25);
+}
+#p3{
+    color:rgba(255,0,0,0.5);
+}
+#p4{
+
+    color:rgba(255,0,0,0.75);
+}
+#p5
+{
+    color:rgba(255,0,0,0.9);
+}
+#p5
+{
+    color:rgba(255,0,0,1);
+}
